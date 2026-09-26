@@ -1,6 +1,6 @@
 # defy-rs
 
-[![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-blue?style=flat-square&logo=github)](https://bhubbard.github.io/defy-rs/)
+[![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-blue?style=flat-square&logo=github)](https://code.brandonhubbard.com/defy-rs/)
 [![Tests](https://img.shields.io/badge/tests-16%20passed-success?style=flat-square&logo=rust)](https://github.com/bhubbard/defy-rs)
 [![License](https://img.shields.io/badge/license-MIT%2FApache--2.0-blue?style=flat-square)](LICENSE-MIT)
 
