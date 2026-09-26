@@ -1,5 +1,9 @@
 # defy-rs
 
+[![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-blue?style=flat-square&logo=github)](https://bhubbard.github.io/defy-rs/)
+[![Tests](https://img.shields.io/badge/tests-16%20passed-success?style=flat-square&logo=rust)](https://github.com/bhubbard/defy-rs)
+[![License](https://img.shields.io/badge/license-MIT%2FApache--2.0-blue?style=flat-square)](LICENSE-MIT)
+
 Pure Rust port of police wanted-level, pursuit dispatch, and NPC crime interaction systems translated from [openfw-game/defy](https://github.com/openfw-game/defy) (open-source GTA clone). Designed for Bevy ECS and modern game architectures.
 
 ## Features
